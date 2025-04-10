@@ -1,20 +1,3 @@
-To create a comprehensive `README.md` file for your **DSA Project**, I'll first take a look at the contents of your Jupyter Notebook (`DSA Project.ipynb`). Let me analyze the file and extract details like:
-
-- Project objective  
-- Algorithms/data structures used  
-- Problem solved  
-- How to run the notebook  
-- Example outputs, etc.
-
-Give me a moment to go through it.
-
-Based on the notebook, your project focuses on predicting **Employee Attrition** using machine learning. It involves data preprocessing, EDA, and logistic regression modeling.
-
-Here's a well-structured `README.md` you can use:
-
----
-
-```markdown
 # DSA Project: Predicting Employee Attrition
 
 This project applies data science and machine learning techniques to predict employee attrition using a real-world HR dataset. It was developed as part of a Data Structures & Algorithms coursework.
